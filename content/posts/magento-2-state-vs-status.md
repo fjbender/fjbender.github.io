@@ -1,5 +1,4 @@
 ---
-author: florian
 title: "Magento 2 State vs Status"
 date: 2022-12-06T08:30:05+01:00
 draft: false
