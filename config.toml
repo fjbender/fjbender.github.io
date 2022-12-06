@@ -1,0 +1,4 @@
+baseURL = 'https://idaikt.sporkify.net/'
+languageCode = 'en-us'
+title = 'I drink and I know things'
+theme = 'ananke'
