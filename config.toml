@@ -195,7 +195,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "Use the search in the top right corner, y'know?"
+      disclaimer = 'Use the search in the top right corner.<br />Also, please collaborate <a rel="external nofollow noreffer" href="https://github.com/fjbender/fjbender.github.io">on GitHub</a>!'
     # Home page posts
     [params.home.posts]
       enable = true
