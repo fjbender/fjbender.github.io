@@ -106,7 +106,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = ''
+    custom = '<a rel="external nofollow noreffer" href="https://fbender.de/#contact">Imprint</a>'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
@@ -183,9 +183,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "fjbender@googlemail.com"
+      gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "https://pbs.twimg.com/profile_images/930330511318421506/bzXQPkmC_400x400.jpg"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
