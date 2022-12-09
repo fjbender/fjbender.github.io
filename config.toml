@@ -106,7 +106,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = 'This information may be inaccurate, out of date, or plainly wrong. This is not an official Mollie website. Please contact Mollie Support if you're unsure.<br /><a rel="external nofollow noreffer" href="https://fbender.de/#contact">Imprint</a>'
+    custom = 'This information may be inaccurate, out of date, or plainly wrong. This is not an official Mollie website. Please contact Mollie Support if you are unsure.<br /><a rel="external nofollow noreffer" href="https://fbender.de/#contact">Imprint</a>'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
