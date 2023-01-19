@@ -27,7 +27,7 @@ At present, if we were to build a non-transaction creating Technology integratio
 
 Although this might be a temporary solution, this set up has the following drawbacks: 
 
-Increased Security risk - As we are currently not able to host the mirror data bases within Mollie we are obliged to host the databases with a third party (third party integrator or contractor of third party integrator). This set-up increases the risk of a data breach and therefore reputation risk of Mollie. 
+Increased Security risk - As we are currently not able to host the mirror data bases within Mollie we are obliged to host the databases with a third party (third party integrator or contractor of third party integrator). This set-up increases the risk of a data breach and therefore reputation risk of Mollie. "Mitigation of this risk is executed carefully and diligently, but that uses time and resources and slows down the process.
 
 No real-time updates - As the amount of data that is processed within a List request is too great to do an (almost) constant pull request, the requests are carried out within certain timeframes. Consequently, the data shown within the integration and possible actions depending on the changes of data will always have a lag. 
 
